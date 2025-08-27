@@ -1,0 +1,12 @@
+[
+    {
+        "name": "Іван",
+        "product": "Ноутбук",
+        "quantity": 1
+    },
+    {
+        "name": "Оля",
+        "product": "Мишка",
+        "quantity": 2
+    }
+]
